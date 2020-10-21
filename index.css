@@ -1,0 +1,17 @@
+.navbar{
+    width: 80%;
+    margin: auto;
+}
+.navbar img{
+    margin-top: 10px;
+}
+.main-img{
+    width: 80%;
+    margin: auto;
+    background-image: url(./student.jpg);
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+}
